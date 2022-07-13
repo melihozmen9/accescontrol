@@ -15,6 +15,7 @@
 		21817A82287F4B28001DB139 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21817A80287F4B28001DB139 /* LaunchScreen.storyboard */; };
 		21817A8D287F4B28001DB139 /* accescontrolTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21817A8C287F4B28001DB139 /* accescontrolTests.swift */; };
 		21817A98287F4B29001DB139 /* accescontrolUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21817A97287F4B29001DB139 /* accescontrolUITests.swift */; };
+		21817AA6287F4DA0001DB139 /* View2Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21817AA5287F4DA0001DB139 /* View2Controller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		21817A93287F4B29001DB139 /* accescontrolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = accescontrolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21817A97287F4B29001DB139 /* accescontrolUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accescontrolUITests.swift; sourceTree = "<group>"; };
 		21817A99287F4B29001DB139 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21817AA5287F4DA0001DB139 /* View2Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2Controller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				21817A7E287F4B28001DB139 /* Assets.xcassets */,
 				21817A80287F4B28001DB139 /* LaunchScreen.storyboard */,
 				21817A83287F4B28001DB139 /* Info.plist */,
+				21817AA5287F4DA0001DB139 /* View2Controller.swift */,
 			);
 			path = accescontrol;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21817A7A287F4B27001DB139 /* ViewController.swift in Sources */,
+				21817AA6287F4DA0001DB139 /* View2Controller.swift in Sources */,
 				21817A76287F4B27001DB139 /* AppDelegate.swift in Sources */,
 				21817A78287F4B27001DB139 /* SceneDelegate.swift in Sources */,
 			);
